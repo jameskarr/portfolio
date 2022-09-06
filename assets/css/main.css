@@ -2082,11 +2082,11 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #FF5700;
+			color: #dd532e;
 		}
 
 		.icon.style2 {
-			color: rgb(81, 31, 156);
+			color: #9c1f29;
 		}
 
 		.icon.style3 {
@@ -2916,7 +2916,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 .icon.major {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: rgba(0, 0, 0, 0.25);
 			}
 
 			.wrapper.style1 ul.alt li {
